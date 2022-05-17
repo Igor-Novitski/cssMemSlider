@@ -22,7 +22,7 @@ p {
 }
 
 .wrapper {
-  max-width: 750px;
+  max-width: 47rem;
   width: 100%;
   margin: 0 auto;
   background-color: #e2e9ee;
@@ -82,17 +82,17 @@ input {
 
 label {
   display: inline-block;
-  width: 25px;
-  height: 25px;
+  width: 1.5rem;
+  height: 1.5rem;
   border-radius: 50%;
   cursor: pointer;
 }
 
 .controls__item {
   display: block;
-  width: 15px;
-  height: 15px;
-  margin: 0 10px;
+  width: 1rem;
+  height: 1rem;
+  margin: 0 auto;
   border-radius: 50%;
   background-color: #4414f1;
   cursor: pointer;
